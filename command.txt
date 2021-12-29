@@ -1,0 +1,22 @@
+npm install -g create-react-app /// to create react
+ create-react-app <foldername>
+
+ npm install --save react-router-dom ///node_modules
+
+ npm install --save react-redux
+ npm install --save redux
+
+
+
+used in ecommerce project
+ npm install --save mongoose /// mongoosedb
+ npm run-script build ///build folder
+
+ npm install --save express path  ////express path is used
+npm install --save express path mongoose cors
+
+ npm install --save uuid
+
+ npm install --save express-fileupload
+
+ https://github.com/Gourav4hub/alchemycode.git
